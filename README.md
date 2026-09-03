@@ -1,2 +1,5 @@
 # MenX
 its a Mens wear Clothing Store
+its using REACT  FOR FRONTEND
+NODE FOR BACKEND
+SUPABASE FOR DATABASE
